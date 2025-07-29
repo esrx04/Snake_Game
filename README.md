@@ -17,8 +17,8 @@ Classic console-based Snake Game built with C++ using Visual Studio.
 ## Contributors
 This project was completed by:
 
-- إسراء خالد عمر يوسف – 22214  
-- أرهاف طارف ادم ابراهيم – 22108  
-- هناء محمد عبيد محمد – 22114  
+- إسراء خالد عمر يوسف 
+- أرهاف طارف ادم ابراهيم 
+- هناء محمد عبيد محمد 
 
 
